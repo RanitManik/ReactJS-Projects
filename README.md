@@ -9,6 +9,7 @@ and witness the progress and skills I have honed along the way.
 
 ## Table of Contents
 
+- [Projects](#projects)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -17,6 +18,14 @@ and witness the progress and skills I have honed along the way.
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
+
+
+## Projects
+
+| No. | **project** | **GitHub** | **Live Site** |
+|----|----------|---------|----------------|
+| 01 | Google Gemini Clone | https://github.com/RanitManik/Gemini-Clone | https://gemini-clone-2.vercel.app |
+
 
 ## Getting Started
 
